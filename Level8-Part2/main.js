@@ -1,4 +1,5 @@
-// Create a function that takes a boolean value and return "yes" string for true, or "no" string for false.
+// Create a function that takes a boolean value
+//return "yes" string for true, or "no" string for false.
 
 
 function boolToWord(bool) {
