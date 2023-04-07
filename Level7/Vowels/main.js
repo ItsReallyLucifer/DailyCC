@@ -1,3 +1,4 @@
+// Create a function that takes in a string.
 // Return the number (count) of vowels in the given string.
 // Consider a,e,i,o,u but not y
 
