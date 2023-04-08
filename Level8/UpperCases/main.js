@@ -1,13 +1,14 @@
-// Convert a string and return the string with each first letter of each word capitalized.
+// Create a function that takes in a string.
+// Convert the string and return the string with each first letter of each word capitalized.
 // Example: this is an example => This Is An Example
 
 
 function capitalFirst(string){
-    //split the string into an array of words
-    const words = string.split(' ')
-    //capitalize the first letter of each word
+    
+    const words = string.split(' ') //split the string into an array of words
+    
     const capitalize = words.map(function(word){
-        return word[0].toUpperCase() + word.slice(1)
+        return word[0].toUpperCase() + word.slice(1) //capitalize the first letter of each word
         
     })
     return capitalize.join(' ')
