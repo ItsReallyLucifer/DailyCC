@@ -1,5 +1,5 @@
 // Create a function that finds the next integral perfect square after the one passed as a parameter.
-// If the parameter itself is not a perfect square, return -1
+// If the parameter itself is not a perfect square, return -1.
 // In this case, the output will be 16, as 9 is a perfect square, and the next integral perfect square is 16.
 
 
