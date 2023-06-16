@@ -13,3 +13,13 @@ function findNextSquare(sq) {
   }
 
   console.log(findNextSquare(9))
+
+  //or 
+  
+//   function findNextSquare(sq) {
+//     let sqr = Math.sqrt(sq); 
+//     if(sqr % 1 == 0){
+//       return Math.pow(sqr + 1, 2);
+//      } 
+//    return -1;
+//   }
