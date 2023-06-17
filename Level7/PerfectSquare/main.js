@@ -20,6 +20,7 @@ function findNextSquare(sq) {
 //     let sqr = Math.sqrt(sq); 
 //     if(sqr % 1 == 0){
 //       return Math.pow(sqr + 1, 2);
-//      } 
+//      }else{
 //    return -1;
+//     }    
 //   }
