@@ -7,7 +7,4 @@ function filter_list(list) {
     return list.filter(Number.isInteger);
   }
 
-  const inputList = [1, 'a', 2, 'b']
-  const filterList = filter_list(inputList)
-
-  console.log(filterList)
+console.log(filter_list([1,'a',2,'b']))
