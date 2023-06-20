@@ -1,4 +1,4 @@
-// Create a function that takes a list of non-negative numbers and strings 
+// Create a function that takes a list of non-negative numbers and strings -
 // But filters and returns a new list of only the numbers.
 
 
