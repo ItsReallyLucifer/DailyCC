@@ -1,5 +1,5 @@
 // Create a function that takes in a number and returns the negative.
-// But take into account negative parameters and also 0
+// But take into account negative number parameters and also 0.
 
 
 
