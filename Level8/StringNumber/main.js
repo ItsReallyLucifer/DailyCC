@@ -1,4 +1,5 @@
-// Create a function that can transform a string into a number..
+// Create a function that can transform a string into a number.
+// 
 
 
 function stringToNum(str){
