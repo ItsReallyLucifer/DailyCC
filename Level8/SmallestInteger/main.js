@@ -1,4 +1,4 @@
-//Create a function that given an array of integers your solution should find the smallest integer.
+//Create a function that given an array of integers your solution should find the smallest integer..
 //Given [34, 15, 88, 2] your solution will return 2
 
 
