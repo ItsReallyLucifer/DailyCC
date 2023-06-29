@@ -1,6 +1,5 @@
-//Create a function that reverses the string passed into it.
-// test the solution by assigning a string to a variable and then console log it. 
-//"Complete the solution so that it reverses the string passed into it."
+// Create a function that reverses the string passed into it.
+// Complete the solution so that it reverses the string passed into it & console log
 
 // 'world'  =>  'dlrow'
 // 'word'   =>  'drow'
