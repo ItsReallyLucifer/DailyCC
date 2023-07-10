@@ -3,10 +3,11 @@
 
 
 function squaredSum(numbers){
-    return numbers.reduce(function(sum, n){
-        return (n*n) + sum
-    }, 0)
+
+    let equation = numbers.reduce((sum, n) => (n*n) + sum, 0)
+     return equation
 }
-let numbers = [1, 2, 3, 4, 5]
-const result = squaredSum(numbers)
+let numbers = [1, 2, 3]
+let result = squaredSum(numbers)
+
 console.log(result)
