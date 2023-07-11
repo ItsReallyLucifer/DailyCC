@@ -1,4 +1,5 @@
-// Create a function that converts a name into initials
+// Create a function that converts a name into initials.
+// Seperate the initials with a period.
 // Example Sam Harris => S.H
 
 
