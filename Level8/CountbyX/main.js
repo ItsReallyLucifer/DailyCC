@@ -1,4 +1,4 @@
-// Create a function that takes 2 parameters that will return an array.
+// Create a function that takes 2 parameters that returns an array
 // The array returned should run 'n' number of times, in increments of 'x'
 
 
