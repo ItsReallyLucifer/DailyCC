@@ -9,3 +9,4 @@ function evenOrOdd(number) {
     }
   }
   console.log(evenOrOdd(10))
+  console.log(evenOrOdd(15))
