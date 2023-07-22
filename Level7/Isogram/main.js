@@ -7,3 +7,4 @@ function isIsogram(str){
 }
 
 console.log(isIsogram('strings'))
+console.log(isIsogram('string'))
