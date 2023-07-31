@@ -25,5 +25,11 @@ function points(games) {
 
     const matchResults = ["3:1", "2:2", "0:1", "4:0", "1:1", "2:3", "1:4", "3:2", "0:3", "2:1"];
     const totalPoints = points(matchResults);
-    
+
 console.log(totalPoints); // Output: 14 (3 + 1 + 0 + 3 + 1 + 0 + 0 + 3 + 0 + 3 = 14 points)
+
+
+
+
+// shorter code
+// const points = games => games.reduce((sum, [x, , y]) => sum + (x > y ? 3 : x == y), 0)
