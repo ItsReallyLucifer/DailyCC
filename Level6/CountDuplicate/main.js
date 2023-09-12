@@ -33,5 +33,6 @@ function duplicateCount(text) {
     return count;
   }
 
-  console.log(duplicateCount("aabbccde")) // 3 
+  console.log(duplicateCount("aabbccde")) // 3
+  console.log(duplicateCount("aabbccdee")) // 4 
   
