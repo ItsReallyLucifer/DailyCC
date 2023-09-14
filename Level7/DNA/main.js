@@ -4,7 +4,6 @@
 
 
 
-
 function DNAStrand(dna) {
     let complement = "";
     
